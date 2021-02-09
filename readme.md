@@ -24,7 +24,7 @@ This app is developed to manage bills. With this app user can save,delete and se
 
 :exclamation: --------------------------------------------------------------------------------- :exclamation:
 
-- ***Executable jar is inside [root](tax_manager.jar) folder***
+- ***Executable jar is inside [root](tax-manager.jar) folder***
 
 :exclamation: --------------------------------------------------------------------------------- :exclamation:
 
